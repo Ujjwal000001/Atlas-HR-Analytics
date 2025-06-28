@@ -6,6 +6,7 @@ A dual-purpose Power BI dashboard for monitoring employee satisfaction metrics a
 This Power BI solution provides HR teams with actionable insights into employee performance trends and attrition drivers. The dashboard enables data-driven decisions for talent retention, satisfaction improvement, and workforce planning at Atlas Labs.
 
 3. Tech Stack
+   
 📊 Power BI Desktop: Core visualization platform
 🔄 Power Query: Data transformation and cleaning
 🧠 DAX: Calculated measures (attrition rate, satisfaction trends)
