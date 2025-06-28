@@ -22,6 +22,14 @@
 # Data 
    **Data Source :** DataCamp
    
+   **Datasets:**
+   
+      https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/EducationLevel.csv
+      https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/Employee.csv
+      https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/PerformanceRating.csv
+      https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/RatingLevel.csv
+      https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/SatisfiedLevel.csv
+      
    **HR Analytics Datasets containing:**
 
       Employee profiles (tenure, review dates)
