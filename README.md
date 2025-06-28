@@ -21,7 +21,6 @@
 
 # Data 
    **Data Source :** DataCamp
-   
    **Datasets:**
    
       https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/EducationLevel.csv
@@ -29,6 +28,11 @@
       https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/PerformanceRating.csv
       https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/RatingLevel.csv
       https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/SatisfiedLevel.csv
+    
+    
+  **Power BI Dashboard/Report:**
+  
+      https://github.com/Ujjwal000001/Atlas-HR-Analytics/blob/main/HR%20Analytics.pbix  
       
    **HR Analytics Datasets containing:**
 
